@@ -1,0 +1,3 @@
+Model,Benchmark Time (s),Estimated Training Time/Epoch (s)
+Standard CNN,1.9243784999998752,18.858909299998775
+Depthwise Separable CNN,2.241697400000703,21.96863452000689

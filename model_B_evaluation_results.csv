@@ -1,0 +1,2 @@
+Model,Accuracy (%),Precision (%),Recall (%),F1 (%)
+Depthwise Separable CNN,88.61904761904762,88.58998068610553,88.61904761904762,88.45273246941898
