@@ -1,0 +1,2 @@
+model,optimizer,learning_rate,momentum,parameters,trainable_parameters,estimated_model_size_KB,saved_model_size_KB,completed_epochs,selected_epoch,best_validation_accuracy_percent,test_accuracy_percent,macro_precision,macro_recall,mean_epoch_seconds_including_evaluation,training_images,validation_images,test_images
+Standard CNN,SGD,0.001,0,42106,42106,168.688,179.581,20,18,87.97142857142858,88.25714285714285,0.8823320051375948,0.8825714285714286,22.700602972507475,49000,10500,10500

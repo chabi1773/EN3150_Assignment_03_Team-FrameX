@@ -1,0 +1,2 @@
+model,optimizer,learning_rate,momentum,parameters,trainable_parameters,estimated_model_size_KB,saved_model_size_KB,completed_epochs,selected_epoch,best_validation_accuracy_percent,test_accuracy_percent,macro_precision,macro_recall,mean_epoch_seconds_including_evaluation,training_images,validation_images,test_images
+Standard CNN,Adam,0.001,0,42106,42106,168.688,179.581,20,19,88.0,88.3047619047619,0.8830166417917699,0.8830476190476191,16.685077118873597,49000,10500,10500
