@@ -1,0 +1,2 @@
+model,total_parameters,estimated_model_size_MB,saved_model_size_MB,test_images,test_accuracy_percent,macro_precision,macro_recall,macro_f1
+Fine-tuned EfficientNet-B0,4020358,16.249888,16.379311,10000,92.25999999999999,0.9254117591806971,0.9226000000000001,0.9230685751572272

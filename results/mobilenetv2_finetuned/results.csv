@@ -1,0 +1,2 @@
+model,total_parameters,estimated_model_size_MB,saved_model_size_MB,test_images,test_accuracy_percent,macro_precision,macro_recall,macro_f1
+Fine-tuned MobileNetV2,2236682,9.083592,9.190859,10000,92.78,0.9276942775092362,0.9278000000000001,0.9272114116883046
