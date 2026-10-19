@@ -1,0 +1,3 @@
+Model,MACs,MACs (Millions),Trainable Parameters,Estimated Weight Memory (KB)
+Standard CNN,318120,0.31812,42838,167.3359375
+Depthwise Separable CNN,95400,0.0954,42106,164.4765625
