@@ -1,0 +1,12 @@
+layer,settings,parameters
+conv1_depth,"Conv2d(1, 1, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))",10
+batch_norm_1_1,"BatchNorm2d(1, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)",2
+conv1_point,"Conv2d(1, 6, kernel_size=(1, 1), stride=(1, 1))",12
+batch_norm_1_2,"BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)",12
+conv2_depth,"Conv2d(6, 6, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=6)",60
+batch_norm_2_1,"BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)",12
+conv2_point,"Conv2d(6, 16, kernel_size=(1, 1), stride=(1, 1))",112
+batch_norm_2_2,"BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)",32
+fc1,"Linear(in_features=256, out_features=120, bias=True)",30840
+fc2,"Linear(in_features=120, out_features=84, bias=True)",10164
+fc3,"Linear(in_features=84, out_features=10, bias=True)",850

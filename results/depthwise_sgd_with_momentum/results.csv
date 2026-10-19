@@ -1,0 +1,2 @@
+model,optimizer,learning_rate,momentum,parameters,trainable_parameters,estimated_model_size_KB,saved_model_size_KB,completed_epochs,selected_epoch,best_validation_accuracy_percent,test_accuracy_percent,macro_precision,macro_recall,macro_f1,mean_epoch_seconds_including_evaluation,training_images,validation_images,test_images
+Depthwise separable CNN,SGD with momentum,0.001,0.9,42106,42106,168.688,179.581,20,20,87.6,88.3047619047619,0.8826204966391265,0.8830476190476191,0.8823700507196446,15.33293538093567,49000,10500,10500
